@@ -16,4 +16,7 @@ The chess tiles and figures are out of PETG and the housing is made of wood.
 ## CAD Model:
 The tiles get glued on the wood  
 ESP32, levelshifter and LEDs are connected by wires
-![Chess Board Main picture](assets/electronics-chess.png)
+![Chess Board Main picture](assets/electronics-chess.png)    
+
+I also designed all the pieces by myself:
+![Chess pieces](assets/figures.png)
