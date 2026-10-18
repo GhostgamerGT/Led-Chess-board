@@ -1,9 +1,9 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-ESP32 30 Pin,1,Aliexpress,$5.84,$5.84,https://de.aliexpress.com/item/1005012522016246.html
-SN74AHCT125N,1,Aliexpress,$3.81,$3.81,https://de.aliexpress.com/item/1005007810993123.html
-7-Segment Clock,1,Aliexpress,$3.28,$3.28,https://de.aliexpress.com/item/1005008877591424.html
-Wood,1,Amazon,$16.99,$16.99,https://amzn.eu/d/0gI37HaF
-Toggle Switch,1,Aliexpress,$2.88,$2.88,https://de.aliexpress.com/item/1005005250581027.html
-PETG White/Black,1,Amazon,$26,$26,https://amzn.eu/d/048bH1Fg
-Rubber Feet,1,Amazon,$6.21,$6.21,https://amzn.eu/d/0akoA7IQ
+Item,Qty,Supplier,Cost/item,Total Cost,link,Notes
+ESP32 30 Pin,1,Aliexpress,$5.84,$5.84,https://de.aliexpress.com/item/1005012522016246.html, Controller for LEDs and clock
+SN74AHCT125N,1,Aliexpress,$3.81,$3.81,https://de.aliexpress.com/item/1005007810993123.html, Levelshifter 3V3 to 5V
+7-Segment Clock,1,Aliexpress,$3.28,$3.28,https://de.aliexpress.com/item/1005008877591424.html, Clock
+Wood,1,Amazon,$16.99,$16.99,https://amzn.eu/d/0gI37HaF, Wood for housing
+Toggle Switch,1,Aliexpress,$2.88,$2.88,https://de.aliexpress.com/item/1005005250581027.html, Switch to switch between the two clocks
+PETG White/Black,1,Amazon,$26,$26,https://amzn.eu/d/048bH1Fg, Filament for board and figures
+Rubber Feet,1,Amazon,$6.21,$6.21,https://amzn.eu/d/0akoA7IQ, Feet for better support
 Estimated total shipping,1,,,$0.00,
